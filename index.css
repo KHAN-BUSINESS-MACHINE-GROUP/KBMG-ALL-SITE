@@ -1,0 +1,35 @@
+/*This is css code.*/
+
+body{background:#0c0c0c}
+
+#a{background:black;padding-top:10px;padding-bottom:10px;}
+#b{color:#a28a81;font-size:20px;margin-left:350px;}
+#b:hover{color:#a28a81;transition:all 2s;background:LightGray;padding-bottom:5px;padding-top:5px}
+#c{margin-left:250px;padding-bottom:5px;padding-top:5px;}
+#d{padding-bottom:5px;padding-top:5px;}
+#e{padding-bottom:5px;padding-top:5px;}
+#f{margin-left:50px;margin-left:310px;font-size:20px;color:#ff4a09}
+
+#aa{float:left;overflow-x:hidden;max-height:912px;padding-left:5px;padding-right:30px;background:black;}
+#l{color:white}
+
+#bb{float:right;overflow-x:hidden;max-height:912px;padding-left:5px;padding-right:30px;background:black;}
+#ll{color:white}
+
+.ppp{color:white}
+
+#o{margin-left:778px;font-size:20px;background:black;color:white;padding-bottom:5px;padding-top:5px;text-align:center;}
+#k{padding-bottom:10px;padding-top:10px;margin-left:730px;margin-top:10px;}
+#kk{padding-bottom:10px;padding-top:10px;margin-left:730px;margin-top:10px;}
+#kkk{padding-bottom:10px;padding-top:10px;margin-left:730px;margin-top:10px;}
+#kkkk{padding-bottom:10px;padding-top:10px;margin-left:730px;margin-top:10px;}
+#kkkkk{padding-bottom:10px;padding-top:10px;padding-left:60.5px;padding-right:60.5px;background:#000000;color:white;margin-left:730px;margin-top:10px;margin-bottom:150px}
+
+.w{margin-top:20px}
+
+.c{background:#000000;width:300px;overflow:hidden;text-align:center;padding:10px;margin:auto;margin-bottom:88px}
+.r{font-size:50px;background:black;color:white;}
+#i{color:white;font-size:30px;}
+#ii{color:white;font-size:30px}
+
+/*Css code end.*/
